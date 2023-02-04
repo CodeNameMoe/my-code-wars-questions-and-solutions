@@ -1,1 +1,1 @@
-# my-code-wars-questions-and-solutions
+# my code wars questions and solutions
